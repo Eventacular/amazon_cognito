@@ -1,0 +1,5 @@
+%{"aws_auth": {:hex, :aws_auth, "0.2.4"},
+  "httpotion": {:hex, :httpotion, "2.1.0"},
+  "ibrowse": {:git, "git://github.com/cmullaparthi/ibrowse.git", "ea3305d21f37eced4fac290f64b068e56df7de80", [tag: "v4.1.2"]},
+  "poison": {:hex, :poison, "1.5.0"},
+  "timex": {:hex, :timex, "0.13.5"}}
